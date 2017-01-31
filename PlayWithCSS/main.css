@@ -1,0 +1,63 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 31, 2017, 2:51:08 PM
+    Author     : Kyle
+*/
+
+
+
+html {
+    background: url("black_background_pattern_light_texture_55291_1920x1080.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size:cover;
+    background-size: cover; 
+}
+
+h1 {
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    margin-bottom: 5px;
+    margin-top:10px;
+}
+
+h2 {
+    margin-top: 10px;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    padding-bottom:25px;
+    border-bottom: 6px solid red;
+    border-bottom-width: 5px;
+    margin-bottom: 5px; 
+}
+
+p {
+    text-align: justify;
+    line-height: 2;
+}
+
+footer {
+    background: #aaa;
+    color:black;
+    text-align: center;
+}
+
+div {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-bottom: 50px;
+    background-color: antiquewhite;  
+}
+
+div1 {
+    position: fixed;
+    top: 10px; 
+}
