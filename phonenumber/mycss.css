@@ -1,0 +1,94 @@
+.bouncyHouse {
+  height: 200px;
+  width: 50%;
+  background-color: darkgrey;
+  position: relative;
+}
+
+.bouncer {
+  position: absolute;
+  width: 20px;
+ 
+  
+}
+
+.bouncer:nth-child(2) {
+  top: 30px;
+  left: 100px;
+}
+
+.bouncer:nth-child(3) {
+  top: 50px;
+  left: 200px;
+}
+
+#stuff{
+    border: 2px solid black;
+    width: 50%;
+}
+
+input{
+    position:relative;
+    width: 8%;
+}
+
+#log{
+    padding: 20px;
+    border:2px solid black;
+    position:relative;
+    height:999px;
+    width: 1000px;
+    left:-8px;
+    top:60px;
+}
+
+#numTotal{
+    position: relative;
+    top:130px;
+}
+
+#Textbox{
+    top:-50px;
+    left: 150px;
+}
+
+#help{
+    position: relative;
+    top:-30px;
+}
+
+#set{
+    position: relative;
+    top: -128px;
+    left: 150px;
+}
+
+#reset{
+    position: relative;
+    top: -128px;
+    left: 150px;
+}
+
+#x{
+    top:-20px;
+    left: 80px;
+}
+
+#y{
+    top:-20px;
+    left: 80px;
+}
+
+#xandy{
+    position: relative;
+    top: 150px;
+}
+
+#numTotal{
+    top: 130px;
+    left: 120px;
+}
+
+#reset{
+    position: absolute;
+}
